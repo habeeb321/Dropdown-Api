@@ -1,16 +1,27 @@
-# barcode_scanner
+# Dropdown API
 
-A new Flutter project.
+## Overview
+
+Dropdown API is a Flutter project that showcases the integration of a dropdown widget with data fetched from an API. This project serves as a guide on how to fetch data from an API and populate a dropdown in a Flutter application.
+
+## Features
+
+- Fetch data from an API
+- Populate a dropdown widget with the fetched data
+
+## Key Tools
+
+- Flutter
+- DropdownButton widget
+- HTTP package for API calls
+
+## Project Structure
+
+- `lib/`: Contains the main Flutter application code
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/habeeb321/Dropdown-Api.git
